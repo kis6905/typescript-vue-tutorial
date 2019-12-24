@@ -1,5 +1,10 @@
 # vue-ts
 
+## vue + typescript tutorial
+* 참고 링크 - https://github.com/microsoft/TypeScript-Vue-Starter
+
+***
+
 ## Project setup
 ```
 npm install
